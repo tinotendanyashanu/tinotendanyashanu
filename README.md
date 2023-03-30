@@ -8,7 +8,7 @@ Currently, I am pursuing my bachelor's degree in Computer Engineering at Vistula
 
 * 🌍  I'm based in poland , Warsaw
 * ✉️  You can contact me at [tinotendanyash@gmail.com](mailto:tinotendanyash@gmail.com)
-* 🧠  I'm learning JavaFX
+* 🧠  I'm learning JavaFX , Spring
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like Learning new programming languages, tools, and technologies
 
